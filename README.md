@@ -50,6 +50,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Firdavs-Normurodov&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ### 😂 Random Dev Meme  
-<img src="https://img-b.udemycdn.com/course/480x270/5619030_e742_4.jpg" style="height: 400px;"/>  
+ <img src="https://api.memegen.link/images/code/When_you_fix_a_bug/but_10_more_appear.png" width="400"/>
 
 [![](https://visitcount.itsvg.in/api?id=Firdavs-Normurodov&icon=0&color=0)](https://visitcount.itsvg.in)  
